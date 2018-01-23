@@ -2,8 +2,7 @@
 A Python crawling program to generate a picture wall
 
 ## Step 1 ##
-Run [job.sh](https://github.com/nerocui/ithomeUserWall/blob/master/job.sh), which is linked to [ithome.py](https://github.com/nerocui/ithomeUserWall/blob/master/ithome.py), with Markup :  `code()` ./job.sh Markup : ```bash
-         ```
+Run [job.sh](https://github.com/nerocui/ithomeUserWall/blob/master/job.sh), which is linked to [ithome.py](https://github.com/nerocui/ithomeUserWall/blob/master/ithome.py), with `./job.sh`
 This will download all the pics into the 'img' folder
 
 ## Step 2 ##
