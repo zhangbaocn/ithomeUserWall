@@ -85,7 +85,6 @@ def getAllUserPhotos():
 	return
 
 
-"""
 
 try:
    thread.start_new_thread( getAllUserID, (1, 4) )
@@ -96,4 +95,3 @@ except:
    print "Error: unable to start thread"
 while 1:
    pass
-"""
