@@ -1,6 +1,17 @@
 # ithomeUserWall
 A Python crawling program to generate a picture wall
 
+## Dependency ##
+
+### Beautiful Soup ###
+[Installation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+
+### Pillow ###
+[Installation](https://pillow.readthedocs.io/en/latest/installation.html)
+
+### Face Recognition ###
+[Installation](https://github.com/ageitgey/face_recognition#installation)
+
 ## Step 1 ##
 Run [job.sh](https://github.com/nerocui/ithomeUserWall/blob/master/job.sh), which is linked to [ithome.py](https://github.com/nerocui/ithomeUserWall/blob/master/ithome.py), with `./job.sh`
 This will download all the pics into the `img` folder
